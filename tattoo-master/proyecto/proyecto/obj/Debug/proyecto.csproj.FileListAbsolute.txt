@@ -1,0 +1,47 @@
+c:\users\dell\documents\visual studio 2012\Projects\proyecto\proyecto\bin\Debug\proyecto.exe.config
+c:\users\dell\documents\visual studio 2012\Projects\proyecto\proyecto\bin\Debug\proyecto.exe
+c:\users\dell\documents\visual studio 2012\Projects\proyecto\proyecto\bin\Debug\proyecto.pdb
+c:\users\dell\documents\visual studio 2012\Projects\proyecto\proyecto\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\dell\documents\visual studio 2012\Projects\proyecto\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2012\Projects\proyecto\proyecto\obj\Debug\proyecto.Form1.resources
+c:\users\dell\documents\visual studio 2012\Projects\proyecto\proyecto\obj\Debug\proyecto.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2012\Projects\proyecto\proyecto\obj\Debug\proyecto.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2012\Projects\proyecto\proyecto\obj\Debug\proyecto.exe
+c:\users\dell\documents\visual studio 2012\Projects\proyecto\proyecto\obj\Debug\proyecto.pdb
+C:\Users\DELL\documents\visual studio 2012\Projects\proyecto\proyecto\obj\Debug\proyecto.Form2.resources
+C:\Users\DELL\documents\visual studio 2012\Projects\proyecto\proyecto\obj\Debug\proyecto.Form3.resources
+C:\Users\DELL\Desktop\carpeta git\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\DELL\Desktop\carpeta git\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\DELL\Desktop\carpeta git\proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\DELL\Desktop\carpeta git\proyecto\proyecto\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\DELL\Desktop\carpeta git\proyecto\proyecto\bin\Debug\Calendar.NET.dll
+C:\Users\DELL\Desktop\carpeta git\proyecto\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\carpeta git\proyecto\proyecto\obj\Debug\proyecto.agregar_cita.resources
+C:\Users\DELL\Desktop\carpeta git\proyecto\proyecto\obj\Debug\proyecto.Form1.resources
+C:\Users\DELL\Desktop\carpeta git\proyecto\proyecto\obj\Debug\proyecto.Form2.resources
+C:\Users\DELL\Desktop\carpeta git\proyecto\proyecto\obj\Debug\proyecto.Form3.resources
+C:\Users\DELL\Desktop\carpeta git\proyecto\proyecto\obj\Debug\proyecto.Form4.resources
+C:\Users\DELL\Desktop\carpeta git\proyecto\proyecto\obj\Debug\proyecto.Form5.resources
+C:\Users\DELL\Desktop\carpeta git\proyecto\proyecto\obj\Debug\proyecto.Properties.Resources.resources
+C:\Users\DELL\Desktop\carpeta git\proyecto\proyecto\obj\Debug\proyecto.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\carpeta git\proyecto\proyecto\obj\Debug\RdlCompile.cache
+C:\Users\DELL\Desktop\carpeta git\proyecto\proyecto\obj\Debug\RdlCompile.compiled
+C:\Users\DELL\Desktop\carpeta git\proyecto\proyecto\obj\Debug\proyecto.exe
+C:\Users\DELL\Desktop\carpeta git\proyecto\proyecto\obj\Debug\proyecto.pdb
+C:\Users\DELL\Desktop\tttatto\tattoo-master\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\DELL\Desktop\tttatto\tattoo-master\proyecto\proyecto\obj\Debug\proyecto.exe
+C:\Users\DELL\Desktop\tttatto\tattoo-master\proyecto\proyecto\obj\Debug\proyecto.pdb
+C:\Users\DELL\Desktop\tttatto\tattoo-master\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\DELL\Desktop\tttatto\tattoo-master\proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\DELL\Desktop\tttatto\tattoo-master\proyecto\proyecto\bin\Debug\Calendar.NET.dll
+C:\Users\DELL\Desktop\tttatto\tattoo-master\proyecto\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\tttatto\tattoo-master\proyecto\proyecto\obj\Debug\proyecto.agregar_cita.resources
+C:\Users\DELL\Desktop\tttatto\tattoo-master\proyecto\proyecto\obj\Debug\proyecto.Form1.resources
+C:\Users\DELL\Desktop\tttatto\tattoo-master\proyecto\proyecto\obj\Debug\proyecto.Form2.resources
+C:\Users\DELL\Desktop\tttatto\tattoo-master\proyecto\proyecto\obj\Debug\proyecto.Form3.resources
+C:\Users\DELL\Desktop\tttatto\tattoo-master\proyecto\proyecto\obj\Debug\proyecto.Form4.resources
+C:\Users\DELL\Desktop\tttatto\tattoo-master\proyecto\proyecto\obj\Debug\proyecto.Form5.resources
+C:\Users\DELL\Desktop\tttatto\tattoo-master\proyecto\proyecto\obj\Debug\proyecto.Properties.Resources.resources
+C:\Users\DELL\Desktop\tttatto\tattoo-master\proyecto\proyecto\obj\Debug\proyecto.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\tttatto\tattoo-master\proyecto\proyecto\obj\Debug\RdlCompile.cache
+C:\Users\DELL\Desktop\tttatto\tattoo-master\proyecto\proyecto\obj\Debug\RdlCompile.compiled

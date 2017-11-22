@@ -1,0 +1,2 @@
+C:\Users\DELL\Desktop\carpeta git\proyecto\proyecto\bin\Release\proyecto.exe.config
+C:\Users\DELL\Desktop\tttatto\tattoo-master\proyecto\proyecto\bin\Release\proyecto.exe.config
